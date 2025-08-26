@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             PrimerDiATheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        //
+                        //Carlos Adrian Treviño Martinez 21130838
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
